@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\practice\bankdb\bankdb\obj\Debug\bankdb.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\practice\bankdb\bankdb\obj\Debug\bankdb.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\practice\bankdb\bankdb\obj\Debug\bankdb.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\practice\bankdb\bankdb\bin\Debug\bankdb.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\practice\bankdb\bankdb\bin\Debug\bankdb.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\practice\bankdb\bankdb\bin\Debug\bankdb.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\practice\bankdb\bankdb\obj\Debug\bankdb.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\practice\bankdb\bankdb\obj\Debug\bankdb.pdb

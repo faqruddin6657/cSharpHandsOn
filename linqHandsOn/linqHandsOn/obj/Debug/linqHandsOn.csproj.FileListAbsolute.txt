@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\csharphandson\csharphandson\linqHandsOn\linqHandsOn\bin\Debug\linqHandsOn.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\csharphandson\csharphandson\linqHandsOn\linqHandsOn\bin\Debug\linqHandsOn.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\csharphandson\csharphandson\linqHandsOn\linqHandsOn\bin\Debug\linqHandsOn.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\csharphandson\csharphandson\linqHandsOn\linqHandsOn\obj\Debug\linqHandsOn.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\csharphandson\csharphandson\linqHandsOn\linqHandsOn\obj\Debug\linqHandsOn.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\csharphandson\csharphandson\linqHandsOn\linqHandsOn\obj\Debug\linqHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\csharphandson\csharphandson\linqHandsOn\linqHandsOn\obj\Debug\linqHandsOn.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\csharphandson\csharphandson\linqHandsOn\linqHandsOn\obj\Debug\linqHandsOn.pdb
