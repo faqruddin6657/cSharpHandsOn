@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Employee>
+ <ename>faqruddin</ename>
+ <eid>786</eid>
+ <salary>50000</salary>
+</Employee>

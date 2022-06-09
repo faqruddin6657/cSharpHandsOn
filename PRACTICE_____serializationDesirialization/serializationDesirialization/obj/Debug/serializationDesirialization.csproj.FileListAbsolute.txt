@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\sh..handson\cSharpHandsOn\serializationDesirialization\serializationDesirialization\bin\Debug\serializationDesirialization.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\sh..handson\cSharpHandsOn\serializationDesirialization\serializationDesirialization\bin\Debug\serializationDesirialization.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\sh..handson\cSharpHandsOn\serializationDesirialization\serializationDesirialization\bin\Debug\serializationDesirialization.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\sh..handson\cSharpHandsOn\serializationDesirialization\serializationDesirialization\obj\Debug\serializationDesirialization.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\sh..handson\cSharpHandsOn\serializationDesirialization\serializationDesirialization\obj\Debug\serializationDesirialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\sh..handson\cSharpHandsOn\serializationDesirialization\serializationDesirialization\obj\Debug\serializationDesirialization.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\sh..handson\cSharpHandsOn\serializationDesirialization\serializationDesirialization\obj\Debug\serializationDesirialization.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\sh..handson\cSharpHandsOn\serializationDesirialization\serializationDesirialization\obj\Debug\serializationDesirialization.pdb
