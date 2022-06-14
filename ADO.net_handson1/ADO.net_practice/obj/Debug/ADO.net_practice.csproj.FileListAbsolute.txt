@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ADO.net_practice\ADO.net_practice\bin\Debug\ADO.net_practice.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ADO.net_practice\ADO.net_practice\bin\Debug\ADO.net_practice.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ADO.net_practice\ADO.net_practice\bin\Debug\ADO.net_practice.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ADO.net_practice\ADO.net_practice\obj\Debug\ADO.net_practice.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ADO.net_practice\ADO.net_practice\obj\Debug\ADO.net_practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ADO.net_practice\ADO.net_practice\obj\Debug\ADO.net_practice.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ADO.net_practice\ADO.net_practice\obj\Debug\ADO.net_practice.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ADO.net_practice\ADO.net_practice\obj\Debug\ADO.net_practice.pdb
