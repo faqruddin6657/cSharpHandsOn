@@ -1,0 +1,13 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\bin\Debug\EntiryFramework.HandsOn.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\bin\Debug\EntiryFramework.HandsOn.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\bin\Debug\EntiryFramework.HandsOn.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\bin\Debug\EntityFramework.dll
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\bin\Debug\EntityFramework.xml
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\obj\Debug\EntiryFramework.HandsOn.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\obj\Debug\EntiryFramework.HandsOn.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\obj\Debug\EntiryFramework.HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\obj\Debug\EntiryFramework.HandsOn.csproj.CopyComplete
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\obj\Debug\EntiryFramework.HandsOn.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\EntiryFramework.HandsOn\EntiryFramework.HandsOn\obj\Debug\EntiryFramework.HandsOn.pdb
