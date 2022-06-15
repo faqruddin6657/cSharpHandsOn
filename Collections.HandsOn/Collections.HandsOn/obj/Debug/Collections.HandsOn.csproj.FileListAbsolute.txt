@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Collections.HandsOn\Collections.HandsOn\bin\Debug\Collections.HandsOn.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Collections.HandsOn\Collections.HandsOn\bin\Debug\Collections.HandsOn.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Collections.HandsOn\Collections.HandsOn\bin\Debug\Collections.HandsOn.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Collections.HandsOn\Collections.HandsOn\obj\Debug\Collections.HandsOn.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Collections.HandsOn\Collections.HandsOn\obj\Debug\Collections.HandsOn.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Collections.HandsOn\Collections.HandsOn\obj\Debug\Collections.HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Collections.HandsOn\Collections.HandsOn\obj\Debug\Collections.HandsOn.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Collections.HandsOn\Collections.HandsOn\obj\Debug\Collections.HandsOn.pdb
