@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.Practice\Delegate.Practice\bin\Debug\Delegate.Practice.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.Practice\Delegate.Practice\bin\Debug\Delegate.Practice.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.Practice\Delegate.Practice\bin\Debug\Delegate.Practice.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.Practice\Delegate.Practice\obj\Debug\Delegate.Practice.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.Practice\Delegate.Practice\obj\Debug\Delegate.Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.Practice\Delegate.Practice\obj\Debug\Delegate.Practice.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.Practice\Delegate.Practice\obj\Debug\Delegate.Practice.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.Practice\Delegate.Practice\obj\Debug\Delegate.Practice.pdb

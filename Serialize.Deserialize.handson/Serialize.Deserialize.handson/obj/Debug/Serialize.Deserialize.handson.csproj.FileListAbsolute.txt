@@ -1,0 +1,11 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\bin\Debug\Serialize.Deserialize.handson.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\bin\Debug\Serialize.Deserialize.handson.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\bin\Debug\Serialize.Deserialize.handson.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\obj\Debug\Serialize.Deserialize.handson.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\obj\Debug\Serialize.Deserialize.handson.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\obj\Debug\Serialize.Deserialize.handson.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\obj\Debug\Serialize.Deserialize.handson.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\obj\Debug\Serialize.Deserialize.handson.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Serialize.Deserialize.handson\Serialize.Deserialize.handson\obj\Debug\Serialize.Deserialize.handson.csproj.CopyComplete
