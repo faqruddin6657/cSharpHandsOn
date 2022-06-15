@@ -1,8 +1,0 @@
-C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.HandsOn\Delegate.HandsOn\bin\Debug\Delegate.HandsOn.exe.config
-C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.HandsOn\Delegate.HandsOn\bin\Debug\Delegate.HandsOn.exe
-C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.HandsOn\Delegate.HandsOn\bin\Debug\Delegate.HandsOn.pdb
-C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.HandsOn\Delegate.HandsOn\obj\Debug\Delegate.HandsOn.csproj.AssemblyReference.cache
-C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.HandsOn\Delegate.HandsOn\obj\Debug\Delegate.HandsOn.csproj.SuggestedBindingRedirects.cache
-C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.HandsOn\Delegate.HandsOn\obj\Debug\Delegate.HandsOn.csproj.CoreCompileInputs.cache
-C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.HandsOn\Delegate.HandsOn\obj\Debug\Delegate.HandsOn.exe
-C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Delegate.HandsOn\Delegate.HandsOn\obj\Debug\Delegate.HandsOn.pdb
