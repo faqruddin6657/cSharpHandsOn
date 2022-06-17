@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <id>1</id>
+    <name>faqruddin</name>
+    <designation>manager</designation>
+    <salary>100000</salary>
+    <location>hyderabad</location>
+  </Employee>
+  <Employee>
+    <id>1</id>
+    <name>subramanyam</name>
+    <designation>software eng</designation>
+    <salary>10000</salary>
+    <location>hyderabad</location>
+  </Employee>
+  <Employee>
+    <id>1</id>
+    <name>adnan</name>
+    <designation>intern</designation>
+    <salary>50000</salary>
+    <location>hyderabad</location>
+  </Employee>
+  <Employee>
+    <id>1</id>
+    <name>karthik</name>
+    <designation>sales manager</designation>
+    <salary>70000</salary>
+    <location>hyderabad</location>
+  </Employee>
+  <Employee>
+    <id>1</id>
+    <name>mohammed</name>
+    <designation>assistant</designation>
+    <salary>90000</salary>
+    <location>hyderabad</location>
+  </Employee>
+</ArrayOfEmployee>

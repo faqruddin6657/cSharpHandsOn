@@ -10,10 +10,16 @@ namespace Serialize.Deserialize.handson
     {
         static void Main(string[] args)
         {
-           BinSerialization binSerialization = new BinSerialization();
-            //binSerialization.Binaryformatter();
-            //binSerialization.jsonserialization();
-            binSerialization.jsondeserialization();
+            JsonSerialization jsonSerialization = new JsonSerialization();
+            //jsonSerialization.Jserialize();
+            //jsonSerialization.JDeserialize();
+            BinarySerialization binarySerialization = new BinarySerialization();
+          //  binarySerialization.Bserial();
+           // binarySerialization.BDeserial();
+
+            XmlSerialDerial xmlSerialDerial = new XmlSerialDerial();
+            //xmlSerialDerial.XmlSerial();
+            xmlSerialDerial.XmlDeserial();
         }
     }
 }
