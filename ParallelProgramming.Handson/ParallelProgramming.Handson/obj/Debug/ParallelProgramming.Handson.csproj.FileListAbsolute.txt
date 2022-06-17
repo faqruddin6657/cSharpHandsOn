@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ParallelProgramming.Handson\ParallelProgramming.Handson\bin\Debug\ParallelProgramming.Handson.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ParallelProgramming.Handson\ParallelProgramming.Handson\bin\Debug\ParallelProgramming.Handson.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ParallelProgramming.Handson\ParallelProgramming.Handson\bin\Debug\ParallelProgramming.Handson.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ParallelProgramming.Handson\ParallelProgramming.Handson\obj\Debug\ParallelProgramming.Handson.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ParallelProgramming.Handson\ParallelProgramming.Handson\obj\Debug\ParallelProgramming.Handson.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ParallelProgramming.Handson\ParallelProgramming.Handson\obj\Debug\ParallelProgramming.Handson.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ParallelProgramming.Handson\ParallelProgramming.Handson\obj\Debug\ParallelProgramming.Handson.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\ParallelProgramming.Handson\ParallelProgramming.Handson\obj\Debug\ParallelProgramming.Handson.pdb
