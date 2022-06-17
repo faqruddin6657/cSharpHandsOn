@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Moq.practice\Moq.practice\bin\Debug\Moq.practice.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Moq.practice\Moq.practice\bin\Debug\Moq.practice.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Moq.practice\Moq.practice\bin\Debug\Moq.practice.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Moq.practice\Moq.practice\obj\Debug\Moq.practice.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Moq.practice\Moq.practice\obj\Debug\Moq.practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Moq.practice\Moq.practice\obj\Debug\Moq.practice.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Moq.practice\Moq.practice\obj\Debug\Moq.practice.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\Moq.practice\Moq.practice\obj\Debug\Moq.practice.pdb

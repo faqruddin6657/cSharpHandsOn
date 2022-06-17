@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moq.practice", "Moq.practice\Moq.practice.csproj", "{802F7DE0-2023-40B6-A5FC-3434B7E9F540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTestProject1", "XTestProject1\XTestProject1.csproj", "{C78B9EFF-B627-4D8E-B717-69F9EFF2071C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802F7DE0-2023-40B6-A5FC-3434B7E9F540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802F7DE0-2023-40B6-A5FC-3434B7E9F540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802F7DE0-2023-40B6-A5FC-3434B7E9F540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802F7DE0-2023-40B6-A5FC-3434B7E9F540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78B9EFF-B627-4D8E-B717-69F9EFF2071C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78B9EFF-B627-4D8E-B717-69F9EFF2071C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78B9EFF-B627-4D8E-B717-69F9EFF2071C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78B9EFF-B627-4D8E-B717-69F9EFF2071C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D63A33F7-8737-4633-BF04-CF5F19BDED56}
+	EndGlobalSection
+EndGlobal
