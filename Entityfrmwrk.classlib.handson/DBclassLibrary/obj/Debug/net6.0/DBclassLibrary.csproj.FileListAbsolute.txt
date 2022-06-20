@@ -1,0 +1,14 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\bin\Debug\net6.0\DBclassLibrary.deps.json
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\bin\Debug\net6.0\DBclassLibrary.runtimeconfig.json
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\bin\Debug\net6.0\DBclassLibrary.dll
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\bin\Debug\net6.0\DBclassLibrary.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\DBclassLibrary.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\DBclassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\DBclassLibrary.AssemblyInfoInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\DBclassLibrary.AssemblyInfo.cs
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\DBclassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\DBclassLibrary.dll
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\refint\DBclassLibrary.dll
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\DBclassLibrary.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\DBclassLibrary.genruntimeconfig.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpHandsOn\cSharpHandsOn\DBclassLibrary\DBclassLibrary\obj\Debug\net6.0\ref\DBclassLibrary.dll
